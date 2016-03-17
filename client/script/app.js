@@ -1,8 +1,9 @@
-﻿var canvas, stage, images, ss, properties,
+﻿//自定义的全局变量
+var canvas, stage, images, ss, properties,
     homeView,
     homeModel;
 
-// library properties:
+// 全局属性
 properties =
 {
     width: 550,
